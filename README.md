@@ -9,7 +9,7 @@ Before installing `ReAnimatedCrossfadeImages`, make sure you have `react-native-
 ```bash
 npm install react-native-reanimated@^3.0.0 reanimated-crossfade-images
 # or
-yarn add react-native-reanimated@^3.0.0  reanimated-cr0ssfade-images
+yarn add react-native-reanimated@^3.0.0  reanimated-crossfade-images
 
 ```
 

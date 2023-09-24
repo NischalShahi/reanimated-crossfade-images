@@ -37,6 +37,8 @@ android.iml
 # node.js
 #
 node_modules/
+*.node_modules
+.node_modules
 scripts/gif-works-directory/*
 npm-debug.log
 \.env

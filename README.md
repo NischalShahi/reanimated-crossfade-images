@@ -1,3 +1,12 @@
+
+Reanimated Crossfade as Background Image
+https://github.com/NischalShahi/reanimated-crossfade-images/assets/37703654/115eaf0f-ee30-4313-9007-126c75acc8ae
+
+
+
+Reanimated Crossfade Image
+https://github.com/NischalShahi/reanimated-crossfade-images/assets/37703654/c9612364-ba6e-4a50-97f2-e45bfe3211e1
+
 # ReAnimatedCrossfadeImages
 
 `ReAnimatedCrossfadeImages` is a React Native component that provides a visually appealing way to display and animate images with cross fading transitions. It utilizes the `react-native-reanimated` library for smooth animations and transitions. This library can be used as both Image or ImageBackground component.

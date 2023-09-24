@@ -90,10 +90,6 @@ const IMAGES = [] //links for images
 
 function App(): JSX.Element {
 
-  const backgroundStyle = {
-    backgroundColor: isDarkMode ? Colors.darker : Colors.lighter,
-  };
-
   return (
    <CrossFadeImages images={IMAGES}>
       <View style={{flex:1, justifyContent:'center', alignItems:'center' }}>

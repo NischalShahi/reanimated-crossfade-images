@@ -48,7 +48,6 @@ import {
 } from 'react-native';
 
 import { CrossFadeImages } from 'reanimated-crossfade-images';
-import { RNReAnimatedTriImages } from 'rn-reanimated-tri-images';
 
 const IMAGES = [] //links for images
 

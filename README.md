@@ -58,7 +58,7 @@ function App(): JSX.Element {
   return (
     <View>
       <View style={{width:"100%",height:500}}>
-      <CrossFadeImages images={IMAGES} />
+        <CrossFadeImages images={IMAGES} />
       </View>
     </View>
   );
@@ -91,7 +91,7 @@ function App(): JSX.Element {
    <CrossFadeImages images={IMAGES}>
       <View style={{flex:1, justifyContent:'center', alignItems:'center' }}>
         <View style={{width:"80%", backgroundColor:"white", padding: 20}}>
-        <Text style={{fontSize:20, textAlign:"center"}}>This is a sample text above the fading background image</Text>
+          <Text style={{fontSize:20, textAlign:"center"}}>This is a sample text above the fading background image</Text>
         </View>
       </View>
     </CrossFadeImages> 

@@ -14,6 +14,10 @@
     "animated Image",
     "animated image background"
   ],
+  "repository": "https://github.com/NischalShahi/reanimated-crossfade-images",
+  "bugs": {
+    "url": "https://github.com/NischalShahi/reanimated-crossfade-images/issues"
+  },
   "author": "Nischal <iamnischal1219@gmail.com> (https://github.com/NischalShahi)",
   "license": "MIT",
   "devDependencies": {

@@ -1,0 +1,25 @@
+{
+  "name": "reanimated-crossfade-image",
+  "version": "0.0.1",
+  "description": "A simple reanimated cross fade image for react native. This can be used as both image or background image component.",
+  "main": "index.js",
+  "scripts": {
+    "bundle": "npx tsc"
+  },
+  "keywords": [
+    "reactnative",
+    "android",
+    "ios",
+    "reanimated Image",
+    "animated Image",
+    "animated image background"
+  ],
+  "author": "Nischal <iamnischal1219@gmail.com> (https://github.com/NischalShahi)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^18.2.22",
+    "@types/react-native": "^0.72.2",
+    "typescript": "^5.2.2",
+    "react-native-reanimated": "~3.5.4"
+  }
+}

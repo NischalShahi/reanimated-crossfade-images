@@ -3,7 +3,6 @@ Reanimated Crossfade as Background Image
 
 
 https://github.com/NischalShahi/reanimated-crossfade-images/assets/37703654/6f3b5e17-b4dc-4757-b4ce-1890a49d3a1e
-[BgSampleVideoAndroid.webm](https://github.com/NischalShahi/reanimated-crossfade-images/assets/37703654/66f2cf8e-cc44-46b2-b284-70115a79be9b)
 
 
 
@@ -12,7 +11,6 @@ Reanimated Crossfade
 
 
 https://github.com/NischalShahi/reanimated-crossfade-images/assets/37703654/40b8cf64-9580-417c-ad11-7e2a33a37f7d
-[SampleVideoAndroid.webm](https://github.com/NischalShahi/reanimated-crossfade-images/assets/37703654/764c8334-f987-4f7c-a4ed-81d976f30b90)
 
 
 
